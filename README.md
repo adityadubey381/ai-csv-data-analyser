@@ -1,4 +1,3 @@
-```markdown
 # 📊 AI-Powered CSV Data Analyser
 
 [![Streamlit App](https://img.shields.io/badge/Live_App-Visit-blue?logo=streamlit)](https://ai-csv-data-analyser-9.streamlit.app/)
