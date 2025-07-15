@@ -85,8 +85,4 @@ Made with ❤️ by [Aditya Kumar Dubey](https://www.linkedin.com/in/aditya-kuma
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE)
-
 
