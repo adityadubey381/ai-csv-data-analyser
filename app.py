@@ -13,7 +13,7 @@ from gemini_analyzer import GeminiAnalyzer
 
 # Set page Configuration
 st.set_page_config(
-    page_title="AI-power CSV Data Analyzer",
+    page_title="AI-power CSV Data Analyser",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
