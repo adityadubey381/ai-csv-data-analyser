@@ -55,7 +55,7 @@ ml_analyzer = MLAnalyzer(data_loader)
 gemini_analyzer = GeminiAnalyzer(data_loader)
 
 # Main header
-st.markdown('<h1 class="main-header">CSV Data Analyzer</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">CSV Data Analyser</h1>', unsafe_allow_html=True)
 
 
 
