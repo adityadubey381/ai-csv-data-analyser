@@ -705,7 +705,7 @@ else:
     st.markdown('<div class="info-text">', unsafe_allow_html=True)
     st.markdown(
         """
-    # Welcome to CSV Data Analyzer!
+    # Welcome to CSV Data Analyser!
 
     This application helps you analyze CSV data files with powerful visualization and AI-powered insights.
 
